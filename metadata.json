@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Trivia Master",
+  "description": "An interactive trivia game featuring a dynamic AI host with customizable personalities, powered by Gemini Live API for voice interaction and Google Search for real-time grounding.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
